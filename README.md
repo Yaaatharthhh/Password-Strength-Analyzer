@@ -24,11 +24,7 @@ We've used industry-standard design tools to create an intuitive and visually ap
 You can access the live version of this project at [Password Strength Checker](https://password-strength.vercel.app/). Try it out and enhance your password security!
 
 📧 **Get in Touch**
-For inquiries, collaboration, or just to say hello, reach out to us at 📩 swamithedev@gmail.com.
-
-🌟 **Portfolio**
-Discover more of our fantastic projects at [SwamiTheDev Portfolio](https://swamithedev.vercel.app). Your journey into the world of technology starts here!
-
+For inquiries, collaboration, or just to say hello, reach out to us at 📩 gargyatharth02@gmail.com
 
 ## Thank You! 👏
 
